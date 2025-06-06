@@ -1,31 +1,8 @@
-/*	Font Abril Fatface & Droid Sans
-
-https://fonts.google.com/specimen/Abril+Fatface
-https://fonts.google.com/noto/specimen/Noto+Sans
------------------------------------------------------ */
-/*	VARIABLES
-	BASE
------------------------------------------------------ */
-/* ICON PATH
-================================================== */
-/* TYPEFACE
-================================================== */
-/* COLOR SCHEME
-================================================== */
-/* UI COLOR
-================================================== */
-/* UI
-================================================== */
-/* Animation
-================================================== */
-/* GFX
-================================================== */
 @font-face {
   font-family: 'Yusei Magic';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/abrilfatface/v23/zOL64pLDlL1D99S8g8PtiKchm-A.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Yusei Magic';
@@ -33,7 +10,6 @@ https://fonts.google.com/noto/specimen/Noto+Sans
   font-weight: 400;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/notosans/v39/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce6Vc.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Yusei Magic';
@@ -41,7 +17,6 @@ https://fonts.google.com/noto/specimen/Noto+Sans
   font-weight: 400;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/notosans/v39/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.ttf) format('truetype');
 }
 /*	Font Base
 ----------------------------------------------------- */
