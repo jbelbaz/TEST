@@ -10,7 +10,9 @@ body {
 h2.tl-headline, h2.tl-headline-title {
     font-family: 'Spicy Rice' !important;
 }
-/* Change le fond de la timeline entière */
-.timeline {
-  background-color: black !important; /* remplace par ta couleur */
+.timeline,
+.tl-timeline,
+.tl-slide {
+  background-color: #1e1e1e !important;  /* gris foncé */
+  color: #ffffff !important;             /* texte blanc pour contraste */
 }
